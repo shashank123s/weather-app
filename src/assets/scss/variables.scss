@@ -1,0 +1,27 @@
+$body-bg: hsl(0, 0%, 100%);
+$primary: #153848;
+
+$secondary: #0d6a91;
+$danger: #ff0000;
+$info: #4f58ff;
+$warning: #fec53d;
+$success: #6bc505;
+$error: #ff0000;
+
+$blue: #3498DB;
+$orange: #ff5733;
+$pink: #F1948A;
+$black: #17202A;
+
+$gradient-top: #4f58ff;
+$gradient-bottom: #3d2080;
+
+$font-family-sans-serif: "Montserrat", sans-serif !default;
+$enable-negative-margins: true !default;
+$enable-gradients: true !default;
+
+:root {
+  --side-nav-bar-width: 325px;
+  --side-nav-bar-width-ne: -325px;
+  --nav-header-height: 80px;
+}
